@@ -1,16 +1,24 @@
-### Hi there 👋
+![Years Badge](https://badges.pufler.dev/years/psuedoo?style=for-the-badge&color=orange)
+![Repos Badge](https://badges.pufler.dev/repos/psuedoo?style=for-the-badge&color=orange)
+![Commits Badge](https://badges.pufler.dev/commits/all/psuedoo?style=for-the-badge&color=orange)
+![Visits Badge](https://badges.pufler.dev/visits/psuedoo/psuedoo?style=for-the-badge&color=orange)
 
-<!--
-**Psuedoo/psuedoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+class Psuedoo:
 
-Here are some ideas to get you started:
+  def __init__(self):
+    self.username = 'psuedoo'
+    self.stack = {
+        'frontend': ['HTML', 'JavaScript', 'Bootstrap', 'VueJS'],
+        'backend': ['Python', 'Flask'],
+        'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+        'devops': ['Docker', 'Nginx'],
+        'tools': ['GIT', 'GitHub', 'GitLab', 'SQLAlchemy'],
+    }
+    
+    def __str__(self):
+      return self.name
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+  me = Psuedoo()
+```
