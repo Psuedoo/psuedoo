@@ -9,7 +9,7 @@ class Psuedoo:
   def __init__(self):
     self.username = 'psuedoo'
     self.stack = {
-        'frontend': ['HTML', 'JavaScript', 'Bootstrap', 'VueJS'],
+        'frontend': ['React', 'JavaScript', 'Bootstrap', 'VueJS'],
         'backend': ['Python', 'Flask'],
         'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
         'devops': ['Docker', 'Nginx'],
