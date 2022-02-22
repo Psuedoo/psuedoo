@@ -10,7 +10,7 @@ class Psuedoo:
     self.username = 'psuedoo'
     self.stack = {
         'frontend': ['React', 'JavaScript', 'Bootstrap', 'VueJS'],
-        'backend': ['Python', 'Flask'],
+        'backend': ['Python', 'Flask', 'FastAPI'],
         'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
         'devops': ['Docker', 'Nginx'],
         'tools': ['GIT', 'GitHub', 'GitLab', 'SQLAlchemy'],
