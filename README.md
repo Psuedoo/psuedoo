@@ -1,7 +1,4 @@
-![Years Badge](https://badges.pufler.dev/years/psuedoo?style=for-the-badge&color=orange)
-![Repos Badge](https://badges.pufler.dev/repos/psuedoo?style=for-the-badge&color=orange)
-![Commits Badge](https://badges.pufler.dev/commits/all/psuedoo?style=for-the-badge&color=orange)
-![Visits Badge](https://badges.pufler.dev/visits/psuedoo/psuedoo?style=for-the-badge&color=orange)
+![Views Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{psuedoo}1212%2Fhit-counter)
 
 ```py
 class Psuedoo:
