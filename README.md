@@ -6,15 +6,18 @@ class Psuedoo:
   def __init__(self):
     self.username = 'psuedoo'
     self.stack = {
-        'frontend': ['React', 'JavaScript', 'Bootstrap', 'VueJS'],
-        'backend': ['Python', 'Flask', 'FastAPI', 'Django'],
-        'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
-        'devops': ['Docker', 'Nginx'],
+        'frontend': ['React', 'VueJS', 'JavaScript', 'Bootstrap'],
+        'backend': ['Python', 'Go', 'Flask', 'FastAPI', 'Django'],
+        'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MariaDB'],
+        'devops': ['Docker', 'Nginx', 'Terraform', 'Ansible'],
         'tools': ['GIT', 'GitHub', 'GitLab', 'SQLAlchemy'],
+    }
+    self.socials = {
+        'Discord': '_psuedo',
     }
     
     def __str__(self):
-      return self.name
+      return self.username
 
 if __name__ == '__main__':
   me = Psuedoo()
