@@ -6,10 +6,10 @@ class Psuedoo:
   def __init__(self):
     self.username = 'psuedoo'
     self.stack = {
-        'frontend': ['React', 'VueJS', 'JavaScript', 'Bootstrap'],
-        'backend': ['Python', 'Go', 'Flask', 'FastAPI', 'Django'],
-        'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MariaDB'],
-        'devops': ['Docker', 'Nginx', 'Terraform', 'Ansible'],
+        'frontend': ['NextJS', 'Tailwind CSS'],
+        'backend': ['Python', 'FastAPI', 'Django'],
+        'database': ['PostgreSQL', 'SQLite3'],
+        'devops': ['Docker', 'Nginx'],
         'tools': ['GIT', 'GitHub', 'GitLab', 'SQLAlchemy'],
     }
     self.socials = {
