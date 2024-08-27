@@ -32,7 +32,7 @@ I'm a full-stack software engineer. I write funny words to make a computer go br
 &nbsp;
 [<img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim" alt="Neovim logo" title="Neovim" height="25" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
 &nbsp;
