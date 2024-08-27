@@ -12,7 +12,7 @@ I'm a full-stack software engineer. I write funny words to make a computer go br
 
 <a name="tech-tools"></a>
 
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?logo=fastapi&logoColor=seafoam" alt="FastAPI logo" title="FastAPI" height="25" />][tech_tools_anchor]
 &nbsp;
