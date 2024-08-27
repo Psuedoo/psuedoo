@@ -52,8 +52,8 @@ I'm a full-stack software engineer. I write funny words to make a computer go br
 
 <a name="socials"></a>
 
-[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord" href="" alt="Discord logo" title="Discord" height="25" />][socials]
-\_psuedo
+[<img src="https://img.shields.io/badge/Discord: %5Fpsuedo -282C34?logo=discord" alt="Discord logo" title="Discord" height="25" />][socials]
+&nbsp;
 
 [tech_tools_anchor]: #tech-tools
 [learning_now_anchor]: #learning-now
