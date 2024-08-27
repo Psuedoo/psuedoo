@@ -41,7 +41,7 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Scala-282C34?logo=scala&logoColor=de3937" alt="Scala logo" title="Scala" height="25" />][learning-now]
+[<img src="https://img.shields.io/badge/Scala-282C34?logo=scala&logoColor=de3937" alt="Scala logo" title="Scala" height="25" />][learning_now_anchor]
 &nbsp;
 
 ## 🔍  Where to find me
