@@ -1,8 +1,12 @@
+![Views Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{psuedoo}1212%2Fhit-counter)
+
 ### Hi, I'm Psuedoo 👋
 
-#### Full-Stack developer
+#### About Me
 
-![Views Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{psuedoo}1212%2Fhit-counter)
+I'm a full-stack software engineer. I write funny words to make a computer go brrrr.
+
+01101100 01101111 01101100
 
 ## 🛠  Technologies and tools
 
@@ -26,7 +30,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim&logoColor=007ACC" alt="Neovim logo" title="Neovim" height="25" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim" alt="Neovim logo" title="Neovim" height="25" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -48,7 +52,8 @@
 
 <a name="socials"></a>
 
-[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord" alt="Discord logo" title="Discord" height="25" />][socials]
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord" href="" alt="Discord logo" title="Discord" height="25" />][socials]
+\_psuedo
 &nbsp;
 
 [tech_tools_anchor]: #tech-tools
