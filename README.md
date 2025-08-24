@@ -45,7 +45,7 @@ I'm a full-stack software engineer. I write funny words to make a computer go br
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Scala-282C34?logo=scala&logoColor=de3937" alt="Scala logo" title="Scala" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible&logoColor=de3937" alt="Ansible logo" title="Ansible" height="25" />][learning_now_anchor]
 &nbsp;
 
 ## 🔍  Where to find me
